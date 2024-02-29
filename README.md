@@ -22,13 +22,42 @@ Certainly! Below is a sample GitHub profile README for you as an MS student show
 
 📚 In my thesis, I explored [Brief Description of Your Thesis Topic]. Here are some highlights:
 
-- **Thesis Title:** [Your Thesis Title]
-- **Abstract:** [Brief Summary of Your Thesis]
-- **Research Findings:** [Key Findings and Insights]
-- **Contributions:** [How Your Research Contributes to the Field]
-- **Publications:** [Any Publications Resulting from Your Thesis Work]
+
+
+
+
+
+📚 In my thesis, I delved into [Brief Description of Your Thesis Topic]. Here's an overview of my research:
+
+Thesis Title: Dark side 
+of
+Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.
+
+
+
+- Abstract: [Brief Summary of Your Thesis]
+  
+    [Insert your abstract here. Summarize your research objectives, methodology, and key findings in a clear and concise manner.]
+
+
+
+- Research Findings: The results of this survey show that smartphone conflicts harm relationship satisfaction but not communication quality. It was revealed that communication quality does not directly bring a negative impact on life satisfaction, but it directly affects relationship satisfaction, which, in turn, harms life satisfaction.
+
+
+
+  
+-Contributions:
+
+This research addresses the gap and gives insight into the consequences of self and partner phubbing and its impact on the relationship and life satisfaction among partners by providing a research model that was validated with primary data.
+
+- Publications: [Any Publications Resulting from Your Thesis Work]
+
+    [List any publications that have resulted from your thesis work, such as conference papers, journal articles, or presentations.]
 
 Feel free to explore my thesis work in detail in the repository [link to your thesis repository].
+
+https://doi.org/10.28945/5241
+
 
 ## Projects
 
