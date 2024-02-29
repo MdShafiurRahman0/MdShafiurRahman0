@@ -71,7 +71,7 @@ https://doi.org/10.28945/5241
 
 
 
-
+///////////////////////////////////////////////////////////////////////////
 
 Thesis Title: Development of a Neurofeedback Approach for ADHD Children
 
