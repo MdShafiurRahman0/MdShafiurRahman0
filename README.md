@@ -125,7 +125,45 @@ https://doi.org/10.28945/5241
 
 
 
-- Research Findings: 
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+Thesis Title: Image Captioning in Bengali Language Using Visual
+Attention
+
+- Abstract:
+ 
+
+
+
+- Research Findings:
+
+  
+-Contributions:
+
+The main contributions of this
+research work are:
+• We have created a dataset for image captioning in the Bengali Language.
+• We have introduced a Bengali caption model that is achieved by focusing
+attention on the characteristics recovered by utilizing two distinct CNN models.
+• We have analyzed the performance of the proposed Bengali caption model and
+compared the output with some existing models.
+
+
+
+- Publications: [Any Publications Resulting from Your Thesis Work]
+
+    [List any publications that have resulted from your thesis work, such as conference papers, journal articles, or presentations.]
+
+Feel free to explore my thesis work in detail in the repository [link to your thesis repository].
+
+https://doi.org/10.28945/5241
 
   
 
